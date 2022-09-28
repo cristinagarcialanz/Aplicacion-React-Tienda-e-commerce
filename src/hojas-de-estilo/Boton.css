@@ -1,0 +1,15 @@
+.boton-clic{
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  border: 0.5px solid grey;
+  margin: 10px;
+}
+
+.boton-reiniciar{
+  width: 60px;
+  height: 30px;
+  border-radius: 10px;
+  border: 0.5px solid grey;
+  margin: 10px;
+}
